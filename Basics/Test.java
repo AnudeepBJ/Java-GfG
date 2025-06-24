@@ -15,5 +15,6 @@ public class Test
         p1.x=10;
         p1.y=20;
         System.out.println(p1);
+
     }
 }
